@@ -1,0 +1,17 @@
+
+.navbar{
+    margin-left: 5rem;
+}
+.navbar .nav-item{
+    margin-left:3rem ;
+}
+
+.row-content{
+    height: 500px;
+}
+
+#heading{
+    font-weight: bold;
+    color: #567dd0;
+    font-size: 70px ;
+}
